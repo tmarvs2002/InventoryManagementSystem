@@ -41,14 +41,17 @@
       "@public/*": [
         "./public/*"
       ],
-      "@ui/*": [
-        "./src/ui/*"
+      "@layout/*": [
+        "./src/layout/*"
       ],
       "@auth/*": [
         "./src/libs/auth/*"
       ],
       "@mail/*": [
         "./src/libs/mail/*"
+      ],
+      "@session/*": [
+        "./src/libs/session/*"
       ]
     }
   },
